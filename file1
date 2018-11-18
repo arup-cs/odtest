@@ -1,4 +1,8 @@
 This is a newfile in gitRepoMaster. Switchto dev
 made changes in master. new commit. 
 made changes in master to make conflict
+This is additional line in dev-arup
 Master has new commit but the dev and dev-arup is lagging behind
+made changes in dev but another chage in another branch. 
+
+
